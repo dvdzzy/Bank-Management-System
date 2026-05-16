@@ -109,6 +109,33 @@ Programmed by **NullTeam**
 - **Project:** Project 2
 
 ---
+---
+
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/01-main-menu.png)
+
+### Add Customer
+![Add Customer](screenshots/02-add-customer.png)
+
+### Show Customer
+![Show Customer](screenshots/03-show-customer.png)
+
+### Edit Customer
+![Edit Customer](screenshots/04-edit-customer.png)
+
+### Account Control
+![Account Control](screenshots/05-account-control.png)
+
+### Add Staff
+![Add Staff](screenshots/06-add-staff.png)
+
+### Show Staff
+![Show Staff](screenshots/07-show-staff.png)
+
+### Staff Control
+![Staff Control](screenshots/08-staff-control.png)
 
 ## 📄 License
 
