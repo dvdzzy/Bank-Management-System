@@ -89,9 +89,12 @@ NullTeam_Bank_Management/
 ```bash
    git clone https://github.com/dvdzzy/Bank-Management-System.git
 ```
-2. Open the `.sln` file in Visual Studio
+2. Open `NullTeam_Bank_Management.sln` in **Visual Studio 2022**
 3. Build the solution (**F6**)
-4. Run the application (**F5**)
+4. **Copy** `customers.txt`, `staff.txt`, and `Photos/` folder to `bin\Debug\` folder
+5. Run the application (**F5**)
+
+> 💡 Or you can start with empty data and add new customers/staff yourself.
 
 ---
 
