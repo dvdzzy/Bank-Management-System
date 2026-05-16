@@ -67,7 +67,7 @@ A Windows Forms application for managing bank customers and staff, built with C#
 > ⚡ Overtime hours are automatically paid 40% more.
 
 ---
-
+```
 ## 📂 Project Structure
 NullTeam_Bank_Management/
 ├── Person.cs              # Abstract base class
@@ -81,6 +81,7 @@ NullTeam_Bank_Management/
 ├── AddStaff.cs            # Add new staff
 ├── ShowStaff.cs           # View staff
 └── StaffControl.cs        # Add hours / Pay salary
+```
 ---
 ## 🚀 How to Run
 
