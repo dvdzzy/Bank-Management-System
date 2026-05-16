@@ -1,0 +1,6 @@
+Davud;Sahibzada;123456789;david@bank.com;Warsaw, Pl. Wilson 12;6000;Premium;D-8763;5585 9790 6016 9201;2000;Photos\man2.jpg
+Amil;Hamzayev;234567890;amil@bank.com;Warsaw, ul. Marszalkowska 5;2500;Gold Saving;C-3333;5585 4846 3333 4735;500;Photos\man1.jpg
+Ramin;Sharifli;34567891;ramin@bank.com;Warsaw, al. Jerozolimskie 88;8000;Premium;B-6846;5585 2901 6846 1747;0;Photos\man3.png
+Anna;Wisniewska;456789012;anna@bank.com;Krakow, Rynek 10;4500;Silver Saving;E-3163;5585 8718 3163 8354;0;Photos\woman1.jpg
+Sofia;Rossi;567890123;sofia@bank.com;Warsaw, ul. Nowy Swiat 22;6000;Gold Saving;E-2148;5585 8458 2148 4925;0;Photos\woman2.jpg
+Maria;Garcia;678901234;maria@bank.com;Gdansk, Dluga 45;2500;Basic;C-4664;5585 6274 4664 2362;0;Photos\woman3.jpg

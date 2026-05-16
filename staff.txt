@@ -1,0 +1,4 @@
+Tomas;Nowak;111222333;tomas.n@bank.com;Warsaw, Pl. Wilson 80;General Manager;0;10;5;100;Z-9353;Photos\staffman1.png
+Mark;Smith;333444555;mark.s@bank.com;Krakow, Rynek 5;Cashier;0;0;0;50;L-4439;Photos\staffman2.png
+Olga;Kamniska;222333444;olga@bank.com;Warsaw, ul. Krucza 15;Manager;0;0;0;70;X-4731;Photos\staffwoman1.png
+Jeniffer;Adams;444555666;jennifer@bank.com;Gdansk, Dluga 20;Security;680;0;0;40;Z-3902;Photos\staffwoman2.jpg
